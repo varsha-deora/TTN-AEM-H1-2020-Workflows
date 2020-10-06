@@ -1,0 +1,9 @@
+{
+  "generator-aem-application": {
+    "promptValues": {
+      "mavenAppsModuleName": "SamleWorkflow1",
+      "mavenBundleModuleName": "core",
+      "javaRootPackageName": "PracticeApp10.core"
+    }
+  }
+}
